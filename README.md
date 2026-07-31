@@ -4,7 +4,7 @@ This project contains an Exploratory Data Analysis (EDA) of a demo customer sale
 
 ## Files
 
-- `eda .py`: Python script performing the complete EDA analysis
+- `eda .py`: Python script performing the complete EDA analysis.
 - `eda_pie_charts.png`: Generated pie chart visualizations
 - `README.md`: Project documentation
 
